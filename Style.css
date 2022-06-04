@@ -1,0 +1,112 @@
+html{
+    background-image:url("images/background.jpg");
+    font-family: 'Imbue', serif;
+    color:rgb(255, 246, 204);
+    }
+    
+    
+body {margin: 0 auto;
+    width: 1100px;
+    height:9100px;
+    background-color:black;
+    }
+#Naslov {text-align: center;}
+
+p.double {padding: 20px; 
+          word-spacing: 50px;
+          text-align: center;
+          line-height: 2.5;
+          background-color: rgb(255, 255, 236);
+         }
+
+#header{
+    background-image:url("images/title.jpg");
+    height:275px ;
+    background-repeat:no-repeat;
+    align-content: center;
+    padding-left:30px;
+    padding-top:5px;
+    }
+
+
+
+#naslov{
+    text-align: center;
+    background-color: black;
+}
+
+
+
+
+    a:visited {
+        color:white;
+
+      }
+    a:hover{
+        color:darkred;
+        transition: color 1.25s;
+    }
+    a:link{
+        color:white;
+    }
+    .mydiv{
+        padding: 20px;
+        box-align:center;
+    }
+    li:hover i {
+        color: darkred;
+        transition: color 1.25s;
+    }
+#form{
+    padding-left:300px;
+}
+.odabir{
+    text-align: center;
+}
+ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	width:100%;
+}
+li{
+    float: left;
+    width:33.3%;
+    text-align: center;
+    word-spacing: 9px;
+    
+}
+nav a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+.mydiv{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.mapouter{
+    position: relative;
+    top: 50px;
+
+}
+@media (max-width: 800px){
+    li {
+        width: 100%;
+    }
+    a {
+        border: 1px white solid;
+        padding: 0px;
+    }
+    nav a{
+        padding: 0px;
+    }
+    #header{
+        visibility: hidden;
+    }
+}
+

@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Filmovi.xsl"?>
+
+<Filmovi>
+<Film>
+    <NaslovIzvornika>The Godfather</NaslovIzvornika>
+    <Redatelj>Francis Ford Coppola</Redatelj>
+    <Producent>Albert S. Ruddy</Producent>
+    <Scenarij>Mario Puzo, Francis Ford Coppola, Robert Towne </Scenarij>
+    <GlavneUloge>Marlon Brando, Al Pacino, James Caan, Robert Duvall, Diane Keaton</GlavneUloge>
+    <Distributer>Paramount Pictures</Distributer>
+    <GodinaIzdanja>1972.</GodinaIzdanja>
+</Film>
+<Film>
+    <NaslovIzvornika>The Godfather Part II</NaslovIzvornika>
+    <Redatelj>Francis Ford Coppola</Redatelj>
+    <Producent>Francis Ford Coppola</Producent>
+    <Scenarij>Mario Puzo, Francis Ford Coppola, Robert Towne </Scenarij>
+    <GlavneUloge> Marlon Brando, Al Pacino, Robert De Niro, Robert Duvall, Diane Keaton</GlavneUloge>
+    <Distributer>Paramount Pictures</Distributer>
+    <GodinaIzdanja>1974.</GodinaIzdanja>
+</Film>
+<Film>
+    <NaslovIzvornika>The Godfather Part III</NaslovIzvornika>
+    <Redatelj>Francis Ford Coppola</Redatelj>
+    <Producent>Francis Ford Coppola</Producent>
+    <Scenarij> Mario Puzo, Francis Ford Coppola </Scenarij>
+    <GlavneUloge>Al Pacino, Diane Keaton, Andy Garcia, Talia Shire, Sofia Coppola</GlavneUloge>
+    <Distributer>Paramount Pictures</Distributer>
+    <GodinaIzdanja>1990.</GodinaIzdanja>
+</Film>
+<Film>
+    <NaslovIzvornika>Goodfellas</NaslovIzvornika>
+    <Redatelj>Martin Scorsese</Redatelj>
+    <Producent>Irwin Winkler</Producent>
+    <Scenarij> Nicholas Pileggi, Martin Scorsese </Scenarij>
+    <GlavneUloge>Ray Liotta, Robert De Niro, Joe Pesci</GlavneUloge>
+    <Distributer>Warner Bros.</Distributer>
+    <GodinaIzdanja>1990.</GodinaIzdanja>
+</Film>
+<Film>
+    <NaslovIzvornika>Casino</NaslovIzvornika>
+    <Redatelj>Martin Scorsese</Redatelj>
+    <Producent>Barbara De Fina</Producent>
+    <Scenarij> Nicholas Pileggi, Martin Scorsese</Scenarij>
+    <GlavneUloge>Robert De Niro, Joe Pesci, Sharon Stone, Frank Vincent</GlavneUloge>
+    <Distributer>Universal Pictures</Distributer>
+    <GodinaIzdanja>1995.</GodinaIzdanja>
+</Film>
+<Film>
+    <NaslovIzvornika>Donnie Brasco</NaslovIzvornika>
+    <Redatelj>Mike Newell</Redatelj>
+    <Producent>Alan Greenspan</Producent>
+    <Scenarij>Paul Attanasio</Scenarij>
+    <GlavneUloge>Johnny Depp, Al Pacino, Michael Madsen, Diane Keaton</GlavneUloge>
+    <Distributer>Sony</Distributer>
+    <GodinaIzdanja>1997.</GodinaIzdanja>
+</Film>
+<Film>
+    <NaslovIzvornika>The Departed</NaslovIzvornika>
+    <Redatelj>Martin Scorsese</Redatelj>
+    <Producent>Brad Grey</Producent>
+    <Scenarij>William Monahan </Scenarij>
+    <GlavneUloge>Leonardo DiCaprio, Matt Damon, Jack Nicholson</GlavneUloge>
+    <Distributer>Warner Bros.</Distributer>
+    <GodinaIzdanja>2006.</GodinaIzdanja>
+</Film>
+<Film>
+    <NaslovIzvornika>Reservoir Dogs</NaslovIzvornika>
+    <Redatelj>Quentin Tarantino</Redatelj>
+    <Producent>Lawrence Bender</Producent>
+    <Scenarij>Quentin Tarantino </Scenarij>
+    <GlavneUloge>Harvey Keitel, Tim Roth, Steve Buscemi</GlavneUloge>
+    <Distributer>Miramax Films</Distributer>
+    <GodinaIzdanja>1992.</GodinaIzdanja>
+</Film>
+</Filmovi>
